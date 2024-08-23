@@ -1,0 +1,18 @@
+/* Gaya Kustom untuk Kalender */
+#calendar {
+    max-height: 500px; /* Sesuaikan tinggi kalender */
+    overflow-y: auto; /* Tambahkan scrollbar jika diperlukan */
+}
+
+.fc-daygrid-day-number {
+    color: #333; /* Warna teks tanggal */
+}
+
+.fc-daygrid-day-top {
+    background-color: #f4f4f4; /* Warna latar atas hari */
+}
+
+.fc-toolbar {
+    background-color: #007bff; /* Warna latar toolbar */
+    color: white; /* Warna teks toolbar */
+}
